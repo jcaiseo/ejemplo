@@ -342,3 +342,7 @@ a.product_digital {
     height: 110px;
   }
 }
+
+.new_css{
+  display:none;
+}
